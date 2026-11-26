@@ -3,7 +3,7 @@
 
 # bc250-suite
 
-**Website dedicated to the PLAYSTATION 5 Bazzite Suite.**
+**Website dedicated to the PlayStation 5 Bazzite Suite.**
 
 
 ## License
