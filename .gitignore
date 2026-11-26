@@ -1,0 +1,11 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+# OS and editor droppings (Linux/KDE, Windows, macOS)
+*.swp
+.directory
+.Trash-*/
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+.DS_Store
